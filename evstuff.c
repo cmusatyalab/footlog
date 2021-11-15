@@ -2,8 +2,7 @@
    Copyright (c) 2021 Carnegie Mellon University
 
    This code is distributed "AS IS" without warranty of any kind under
-   the terms of the GNU General Public Licence Version 3, or any later
-   version of that license.
+   the terms of the GNU General Public Licence Version 2.
 
    This code was derived from the source code of evtest.c
    in Ubuntu 18.4 and retains the copyrights listed below:

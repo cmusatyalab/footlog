@@ -2,8 +2,7 @@
    Copyright (C) 2021 Carnegie Mellon University
 
    This code is distributed "AS IS" without warranty of any kind under
-   the terms of the GNU General Public Licence Version 3, or any later
-   version of that license.
+   the terms of the GNU General Public Licence Version 2.
 
 */
 
